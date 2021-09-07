@@ -6,7 +6,7 @@ import (
 	"log/syslog"
 	"os"
 
-	"github.com/tchap/zapext/v2/zapsyslog"
+	"github.com/ideascf/zapext/v2/zapsyslog"
 
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
